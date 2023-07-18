@@ -32,9 +32,8 @@ Complex microbial interactions can lead to different colonization outcomes of ex
 
 
 # Data type for COP
-## (1) Ptrain.csv: matrix of taxanomic profile of size N*M, where N is the number of taxa and M is the sample size (without header).
-
-
-## (2) Thought experiment: thought experiemt was realized by removing each present species in each sample. This will generated three data type.
-
+(1) X_train.csv: matrix of taxanomic profile of size N*M1, where N is the number of taxa and M1 is the sample size (without header) used to training the prediction models.
+(2) X_test.csv: matrix of taxanomic profile of size N*M2, where N is the number of taxa and M2 is the sample size (without header) used to test the prediction model.
+(3) y_train.csv: vector of size M1 representing the colonized abudnace of invasion species used to training the prediction models.
+(4) y_test.csv: vector of size M2 representing the colonized abudnace of invasion species used to test the prediction models.
 
