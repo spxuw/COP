@@ -7,7 +7,7 @@ Wu, L., Wang, X.W., Tao, Z., Wang, T., Zuo, W., Zeng, Y., Liu, Y.Y. and Dai, L..
 We have tested this code for Python 3.8.13 and R 4.1.2.
 
 <p align="center">
-  <img src="papers/workflow.png" alt="demo" width="800" height="470" style="display: block; margin: 0 auto;">
+  <img src="papers/workflow.png" alt="demo" width="800" height="400" style="display: block; margin: 0 auto;">
 </p>
 
 
